@@ -28,4 +28,14 @@ This is my first Power BI dashboard project focused on analyzing clinical trial 
 - Data Modeling
 - Dashboard Design
 - Data Visualization
-- Data Storytelling 
+- Data Storytelling
+
+  ## Dashboard Preview
+
+### Overview
+![Dashboard Overview](image1.png)
+
+### Safety  Analysis
+![Safety Analysis](image2.png)
+
+
