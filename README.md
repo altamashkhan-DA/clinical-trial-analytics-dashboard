@@ -33,9 +33,9 @@ This is my first Power BI dashboard project focused on analyzing clinical trial 
   ## Dashboard Preview
 
 ### Overview
-![Dashboard Overview](image 1.png)
+![Dashboard Overview](image1.png)
 
 ### Safety  Analysis
-![Safety Analysis](image 2.png)
+![Safety Analysis](image2.png)
 
 
